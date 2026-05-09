@@ -1,0 +1,9 @@
+{
+  "highscore": 6375,
+  "options": {
+    "music_vol": 0.25,
+    "sfx_vol": 1.0,
+    "fullscreen": false,
+    "show_fps": true
+  }
+}
